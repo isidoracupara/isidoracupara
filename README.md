@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently a Data Scientist at Inoopa
+- 🌱 I’m a data scientist, investor and artist
 - 💬 Ask me about cats
-- ⚡ Fun fact: Slugs have 4 noses. :snail:
+- ⚡ Fun fact: Slugs have 4 noses. 🐌
 
